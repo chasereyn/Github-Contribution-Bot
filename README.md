@@ -33,7 +33,7 @@ Finally, run the project to see what the moment package does.
 node index.js
 ```
 
-Voilà!!
+Voilà!
 You can see the commit date in terminal.
 
 ## 💻 Commits 
